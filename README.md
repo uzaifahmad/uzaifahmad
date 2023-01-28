@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uzaifahmad
 - 👀 I’m interested in Developing software, working with professionals
 - 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me [Click Here
 ](http://linkedin.com/in/theuas)
 <!---
